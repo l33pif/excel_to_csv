@@ -14,4 +14,4 @@ You'll need to create a virtual enviroment :
    ex: 
     python convert_ex_to_csv.py 'name_of_xl_file'
    now you should have the csv file in the carpet
-    'deactivate' to go out of the venv
+    'deactivate' to go out of the venv.
